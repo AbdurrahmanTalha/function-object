@@ -1,0 +1,22 @@
+{
+  "name": "function-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practice-challenge.js",
+  "scripts": {
+    "start": "nodemon practice-challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdurrahmanTalha/function-object.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdurrahmanTalha/function-object/issues"
+  },
+  "homepage": "https://github.com/AbdurrahmanTalha/function-object#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
